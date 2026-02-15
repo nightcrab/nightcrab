@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>Paul Anderson (Nightcrab)</h1>
+<h1>Paul Anderson</h1>
 
 **Parallel computing・Machine Learning・Game Development**
 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Deep%20Reinforcement%20Learning-Deep%20RL-9cf?style=flat-square" alt="Deep RL"/>
 <img src="https://img.shields.io/badge/Tetris%20AI-Versus%20Tetris-purple?style=flat-square" alt="Tetris AI"/>
 
-[Personal site](https://nightcrab.github.io/) · [LinkedIn](https://www.linkedin.com/in/paul-anderson-49b9a2263) · ANU · Kyoto University
+[Personal Site](https://nightcrab.github.io/) · [LinkedIn](https://www.linkedin.com/in/paul-anderson-49b9a2263) · ANU · Kyoto University
 </div>
 
 <br/>
@@ -24,11 +24,9 @@ Currently most active on:
 
 - Parallel search algorithms with advanced load-balancing approaches
 - Statistical, Monte Carlo and ML approaches to problems in game theory
-- Bitwise, SIMD and low level optimizations for high performance game solvers
-- Self-play deep RL agents for Tetris battle variants
 - Project managing and developing God of Stackers
 
-## 🌟 Past Projects
+## 🌟 Current Projects
 
 ### [Nana](https://github.com/nightcrab/nana)  
 **Parallel MCTS engine for versus Tetris / tetromino battlers**  
@@ -47,13 +45,4 @@ Currently most active on:
 - High perfomance client with lower input latency than both TETR.IO and [jstris](https://jstris.jezevec10.com/)
 - Daily active users and >1,000 registered players
 - Major updates every month + minor patch every week
-
-
-### [Ivy](https://github.com/ivy-llc/ivy)  
-**Open-source interoperability between popular machine learning frameworks**
-
-- Convert models, libraries and training pipelines from PyTorch to Jax or Tensorflow
-- Computation Graph based model enables correct and robust transpilation
-- Combined with syntactic approaches using Abstract Syntax Tree manipulation 
-
 
