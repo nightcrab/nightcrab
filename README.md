@@ -35,7 +35,6 @@ Currently most active on:
 - Bitboard game state + fast move generation
 - Custom message-passing architecture for scalability
 - Online any-time planning
-- C++21
 
 ### [God of Stackers](https://dev.godofstackers.com/about)
 **Live service, competitive multiplayer stacker with regular updates**
