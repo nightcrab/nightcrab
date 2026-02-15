@@ -22,7 +22,7 @@ I'm also the developer of the live-service competitive block stacker, [God of St
 
 Currently most active on:
 
-- Parallel search algorithms with advanced load-balancing approaches
+- Parallel search algorithms with advanced load-balancing
 - Statistical, Monte Carlo and ML approaches to problems in game theory
 - Project managing and developing God of Stackers
 
