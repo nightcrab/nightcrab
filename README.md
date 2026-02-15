@@ -45,3 +45,12 @@ Currently most active on:
 - Daily active users and >1,000 registered players
 - Major updates every month + minor patch every week
 
+## 🌟 Previous Work / Contributions
+
+### [Ivy](https://github.com/ivy-llc/ivy)
+**Open source interoperability between popular machine learning frameworks**
+
+- Major contributor and early engineer (2022-2024)
+- Enabled model and training pipeline conversion from Torch to JAX and Tensorflow
+- Performance improvements across CNN, RNN and Transformer architectures 
+- Computation graph approach ensured robust and correct transpilations
