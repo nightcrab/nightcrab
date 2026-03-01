@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Monte%20Carlo%20Tree%20Search-MCTS-orange?style=flat-square" alt="MCTS"/>
 <img src="https://img.shields.io/badge/Deep%20Reinforcement%20Learning-Deep%20RL-9cf?style=flat-square" alt="Deep RL"/>
-<img src="https://img.shields.io/badge/Tetris%20AI-Versus%20Tetris-purple?style=flat-square" alt="Tetris AI"/>
 
 [Personal Site](https://nightcrab.github.io/) · [LinkedIn](https://www.linkedin.com/in/paul-anderson-49b9a2263) · ANU · Kyoto University
 </div>
