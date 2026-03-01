@@ -6,6 +6,7 @@
 **Parallel computing・Machine Learning・Game Development**
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust" alt="Rust"/>
 <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Monte%20Carlo%20Tree%20Search-MCTS-orange?style=flat-square" alt="MCTS"/>
 <img src="https://img.shields.io/badge/Deep%20Reinforcement%20Learning-Deep%20RL-9cf?style=flat-square" alt="Deep RL"/>
@@ -16,7 +17,7 @@
 
 <br/>
 
-I'm interested in high-performance search algorithms, parallel tree search, self-play reinforcement learning, and making strong AIs for imperfect information two-player games — especially falling-block games.
+I'm interested in high-performance search algorithms, parallel tree search, self-play reinforcement learning, and making strong AIs for imperfect information two-player games, especially falling-block games.
 
 I'm also the developer of the live-service competitive block stacker, [God of Stackers](https://godofstackers.com/about). Interested in the game? Join our [Discord server](https://discord.gg/7qK8ZyZCH2)!
 
@@ -29,7 +30,7 @@ Currently most active on:
 ## 🌟 Current Projects
 
 ### [Nana](https://github.com/nightcrab/nana)  
-**Parallel MCTS engine for versus Tetris / tetromino battlers**  
+**Parallel MCTS engine for tetromino battlers**  
 
 - Parallel Monte-Carlo Tree Search with **Transposition Driven Scheduling** (TDS) load balancing
 - Bitboard game state + fast move generation
@@ -47,6 +48,13 @@ Currently most active on:
 
 ## 🌟 Previous Work / Contributions
 
+### [Hachi](https://github.com/shakkar23/hachi)  
+**Modelling Tetris using Gradient Boosted Trees**  
+
+- XGBoost, CatBoost and LightGBM models for two-player simultaneous move Tetris
+- Reinforcement Learning, TD-Lambda
+- Model distillation, inference optimization and analysis tools
+
 ### [Ivy](https://github.com/ivy-llc/ivy)
 **Open source interoperability between popular machine learning frameworks**
 
@@ -54,3 +62,5 @@ Currently most active on:
 - Enabled model and training pipeline conversion from Torch to JAX and Tensorflow
 - Performance improvements across CNN, RNN and Transformer architectures 
 - Computation graph approach ensured robust and correct transpilations
+
+
