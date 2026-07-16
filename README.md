@@ -16,7 +16,7 @@
 
 <br/>
 
-Hi. My main interests are in high-performance search algorithms, esp. parallel tree search, self-play reinforcement learning, and creating strong AIs for imperfect information two-player games, especially falling-block games.
+My main interests are in high-performance search algorithms, esp. parallel tree search, self-play reinforcement learning, and creating strong AIs for imperfect information two-player games, especially falling-block games.
 
 I'm also the developer of the live-service competitive block stacker, [God of Stackers](https://godofstackers.com/about). Interested in the game? Join our [Discord server](https://discord.gg/7qK8ZyZCH2)!
 
